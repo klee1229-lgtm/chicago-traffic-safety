@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.twbx
+*.hyper
+# raw downloads (large; rebuilt by notebook 01)
+crashes.csv
+people.csv
+vehicles.csv
+census.csv
+crashes_filtered.csv
+crashes_with_income.csv
+crashes_for_analysis.csv
