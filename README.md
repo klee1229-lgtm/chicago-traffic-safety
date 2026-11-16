@@ -1,5 +1,7 @@
 <img src="assets/header.svg" width="100%" alt="Chicago Traffic Safety"/>
 
+**Selected for the UMD Smith MSBA Advisory Council Day showcase.** Data pulled through the Socrata and Census APIs, joined with GeoPandas, 870,344 crashes analyzed.
+
 Chicago has limited money for traffic safety. Where should it go? We pulled every crash the city has recorded since 2018, attached each one to a community area and its Census income, and asked whether severe crashes (a death or incapacitating injury) fall evenly across the city. They do not.
 
 **Data:** Chicago Data Portal crash tables via the Socrata API (1.05M crashes, 2.30M people, 2.13M vehicles), Census ACS 5-Year 2023 tract data (1,332 Cook County tracts), and 77 community area polygons. After filtering: 870,344 crashes, 2018 to 2025.
